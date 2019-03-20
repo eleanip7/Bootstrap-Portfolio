@@ -79,21 +79,32 @@ nav {
 
 .btn-outline-primary {
     margin-top: 20px;
-    margin-left: 150px;
+    margin-left: 240px;
 }
 
 .btn-outline-secondary {
     margin-top: 20px;
-    margin-left: 270px;
+    margin-left: 450px;
 
 }
 
 .btn-outline-success {
     margin-top: 20px;
-    margin-left: 300px;
+    margin-left: 500px;
 
 }
 
 .jumbotron {
     margin: 30px;
+}
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.btn-lg {
+    margin-left: 600px;
 }
