@@ -79,18 +79,18 @@ nav {
 
 .btn-outline-primary {
     margin-top: 20px;
-    margin-left: 240px;
+    margin-left: 200px;
 }
 
 .btn-outline-secondary {
     margin-top: 20px;
-    margin-left: 450px;
+    margin-left: 590px;
 
 }
 
 .btn-outline-success {
     margin-top: 20px;
-    margin-left: 500px;
+    margin-left: -400px;
 
 }
 
@@ -106,5 +106,5 @@ nav {
 }
 
 .btn-lg {
-    margin-left: 600px;
+    margin-left: 460px;
 }
