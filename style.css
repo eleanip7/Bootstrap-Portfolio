@@ -108,3 +108,7 @@ nav {
 .btn-lg {
     margin-left: 460px;
 }
+
+.card-img-top {
+    text-align: center;
+}
