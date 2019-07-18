@@ -81,9 +81,10 @@ nav {
 }
 
 .card { 
-    margin-top: 20px;
+    margin-top: 50px;
     background-color: salmon;
-    border: 7px solid #4aaaa5;
+    border: 5px solid #4aaaa5;
+    padding: 60px;
 
 }
 
@@ -139,7 +140,7 @@ nav {
 }
 
 .btn-info {
-    margin-left: 230px; 
+    margin-left: 120px; 
     position: absolute; 
-    margin-top: 50px;
+    margin-top: 10px;
 }
